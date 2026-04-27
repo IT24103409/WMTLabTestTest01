@@ -1,0 +1,30 @@
+mkdir backend/frontend
+get the json file - npm init -y
+mongodb/express js - npm install or npm install express mongoose cors dotenv
+div package - npm install nodemon --save -dev
+create the env file (inside the backend)
+
+-- frontend --
+
+npm create vite@latest 
+	project name ___
+	package name ___
+	select - react
+	select - javascript
+
+
+
+
+
+
+
+
+-- git push --
+git init
+git add.
+git commit -m "first commit"
+git remote add origin  <repo link>
+git branch -M main
+git push -u origin main 
+
+
